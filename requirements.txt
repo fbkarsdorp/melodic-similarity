@@ -1,0 +1,8 @@
+altair>=2.4.1
+music21>=5.1.0
+numpy>=1.15.4
+pandas>=0.24.1
+torch>=1.0.1
+scikit-learn>=0.20.3
+livelossplot>=0.3.2
+neptune-cli>=2.8.23
