@@ -1,5 +1,8 @@
 # Learning Similarity Metrics for Melody Retrieval
 
+#### [Full paper](); [Supplementary material](https://github.com/fbkarsdorp/melodic-similarity/blob/master/Karsdorp_ISMIR2019_SI.pdf)
+
+
 Similarity measures are indispensable in music information retrieval. In recent years,
 various proposals have been made for measuring melodic similarity in symbolically encoded
 scores. Many of these approaches are ultimately based on a dynamic programming approach
@@ -19,8 +22,6 @@ music in an induced melody space. We contrast this approach with an alignment-ba
 approach. We present results for the Meertens Tune Collections, which consists of a large
 number of vocal and instrumental monophonic pieces from Dutch musical sources, spanning
 five centuries, and we demonstrate the robustness of the learned similarity metrics.
-
-#### [Full paper](); [Supplementary material](https://github.com/fbkarsdorp/melodic-similarity/blob/master/Karsdorp_ISMIR2019_SI.pdf)
 
 ## Citation
 
