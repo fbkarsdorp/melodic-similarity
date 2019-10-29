@@ -1,6 +1,6 @@
 # Learning Similarity Metrics for Melody Retrieval
 
-#### [Full paper](); [Supplementary material](https://github.com/fbkarsdorp/melodic-similarity/blob/master/Karsdorp_ISMIR2019_SI.pdf)
+#### [Full paper](http://archives.ismir.net/ismir2019/paper/000057.pdf); [Supplementary material](https://github.com/fbkarsdorp/melodic-similarity/blob/master/Karsdorp_ISMIR2019_SI.pdf)
 
 
 Similarity measures are indispensable in music information retrieval. In recent years,
@@ -37,6 +37,7 @@ The Netherlands, 2019.
   title     = {Learning Similarity Metrics for Melody Retrieval},
   booktitle = {20th International Society for Music Information Retrieval Conference},
   address   = {Delft, The Netherlands},
+  pages     = {478-485},
   year      = {2019}
 }
 ```
